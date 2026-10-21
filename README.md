@@ -24,7 +24,7 @@ I believe that consistent learning, discipline, and curiosity are the foundation
 ## 🛠️ Technical Arsenal
 
 ### 🌐 Frontend Development
-
+![React](https://img.shields.io/badge/React-blue)
 
 
 
