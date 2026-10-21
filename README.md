@@ -24,28 +24,27 @@ I believe that consistent learning, discipline, and curiosity are the foundation
 ## 🛠️ Technical Arsenal
 
 ### 🌐 Frontend Development
+
 ![React](https://img.shields.io/badge/React-blue)
-
-
-
-
-
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![HTML5](https://img.shields.io/badge/HTML5-orange)
+![CSS3](https://img.shields.io/badge/CSS3-blue)
+![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-cyan)
 
 ### ⚙️ Backend & Databases
 
-
-
-
-
-
+![Node.js](https://img.shields.io/badge/Node.js-green)
+![Express.js](https://img.shields.io/badge/Express.js-black)
+![MongoDB](https://img.shields.io/badge/MongoDB-green)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
 
 ### 💡 Programming & Tools
 
-
-
-
-
-
+![Java](https://img.shields.io/badge/Java-orange)
+![Python](https://img.shields.io/badge/Python-blue)
+![Git](https://img.shields.io/badge/Git-orange)
+![GitHub](https://img.shields.io/badge/GitHub-black)
+![Postman](https://img.shields.io/badge/Postman-orange)
 
 ---
 
