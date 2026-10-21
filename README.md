@@ -99,6 +99,23 @@ A Python-based project exploring assistant functionality and AI-oriented applica
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Shezalpatelcode&show_icons=true&theme=tokyonight"
+    alt="Sheezal's GitHub Statistics"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shezalpatelcode&layout=compact&theme=tokyonight"
+    alt="Most Used Programming Languages"
+  />
+</p>
+
+---
 ## 🤝 Let's Connect
 
 I'm always happy to connect with fellow developers, exchange ideas, explore new technologies, and collaborate on meaningful projects.
